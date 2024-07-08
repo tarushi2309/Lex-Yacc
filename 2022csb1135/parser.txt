@@ -1,0 +1,70 @@
+Type : int
+Identifier : i 
+Const : 4 
+Const : 5 
+Operator : + 
+Assignment : =  ends 
+
+Type : char *
+Identifier : func 
+Type : int
+Identifier : a 
+Type : char *
+Identifier : b 
+Function Arguments end 
+
+Type : int
+Identifier : i 
+Const : 2 
+Const : 3 
+Operator : + 
+Assignment : =  ends 
+Type : char *
+Identifier : s 
+Identifier : i 
+Const : 0 
+Operator : >= 
+Identifier : s 
+String : "a" 
+Identifier : s 
+Operator : + 
+Assignment : =  ends 
+Identifier : i 
+Identifier : i 
+Const : 1 
+Operator : - 
+Assignment : =  ends 
+While Loop ends 
+
+Identifier : s 
+Return statement ends 
+
+Function Defination ends 
+
+
+Type : int
+Identifier : main 
+Type : char *
+Identifier : s 
+String : "Hi" 
+Assignment : = ends 
+True 
+Identifier : func 
+Const : 9 
+Identifier : s 
+Function call ends 
+
+Type : int
+Identifier : num 
+Identifier : s 
+Const : 0 
+Operator : [] 
+Assignment : =  ends 
+If condition ends  
+
+Const : 1 
+Return statement ends 
+
+Function Defination ends 
+
+
